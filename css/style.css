@@ -1,0 +1,15 @@
+.animation {
+	width: 350px;
+	height: 350px;
+	margin-bottom: 20px;
+}
+
+.animation .click {
+	cursor: pointer;
+}
+
+.description {
+	display: none;
+	background: #f7f7f7;
+	padding: 5px 20px;
+}
